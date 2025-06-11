@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{70EC622F-AF6C-4400-B295-CDB6127CEDEB}|quanlykho\\quanlykho.csproj|solutionrelative:quanlykho\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{70EC622F-AF6C-4400-B295-CDB6127CEDEB}|quanlykho\\quanlykho.csproj|f:\\0_trungkien\\pttktt\\qlkho\\quanlykho\\quanlykho\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{70EC622F-AF6C-4400-B295-CDB6127CEDEB}|quanlykho\\quanlykho.csproj|solutionrelative:quanlykho\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{70EC622F-AF6C-4400-B295-CDB6127CEDEB}|quanlykho\\quanlykho.csproj|f:\\0_trungkien\\pttktt\\qlkho\\quanlykho\\quanlykho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{70EC622F-AF6C-4400-B295-CDB6127CEDEB}|quanlykho\\quanlykho.csproj|solutionrelative:quanlykho\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -26,15 +22,16 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\0_TRUNGKIEN\\PTTKTT\\QLKho\\quanlykho\\quanlykho\\Program.cs",
               "RelativeDocumentMoniker": "quanlykho\\Program.cs",
               "ToolTip": "F:\\0_TRUNGKIEN\\PTTKTT\\QLKho\\quanlykho\\quanlykho\\Program.cs",
               "RelativeToolTip": "quanlykho\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T18:26:07.211Z",
+              "WhenOpened": "2025-06-11T18:50:12.095Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -46,19 +43,7 @@
               "ToolTip": "F:\\0_TRUNGKIEN\\PTTKTT\\QLKho\\quanlykho\\quanlykho\\TrangChu.cs [Design]",
               "RelativeToolTip": "quanlykho\\TrangChu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T18:17:31.619Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DangNhap.cs [Design]",
-              "DocumentMoniker": "F:\\0_TRUNGKIEN\\PTTKTT\\QLKho\\quanlykho\\quanlykho\\DangNhap.cs",
-              "RelativeDocumentMoniker": "quanlykho\\DangNhap.cs",
-              "ToolTip": "F:\\0_TRUNGKIEN\\PTTKTT\\QLKho\\quanlykho\\quanlykho\\DangNhap.cs [Design]",
-              "RelativeToolTip": "quanlykho\\DangNhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T16:26:33.178Z",
+              "WhenOpened": "2025-06-11T18:50:27.379Z",
               "EditorCaption": " [Design]"
             }
           ]

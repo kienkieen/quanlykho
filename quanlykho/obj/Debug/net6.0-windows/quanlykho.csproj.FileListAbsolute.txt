@@ -21,3 +21,4 @@ F:\0_TRUNGKIEN\PTTKTT\QLKho\quanlykho\quanlykho\obj\Debug\net6.0-windows\quanlyk
 F:\0_TRUNGKIEN\PTTKTT\QLKho\quanlykho\quanlykho\obj\Debug\net6.0-windows\quanlykho.genruntimeconfig.cache
 F:\0_TRUNGKIEN\PTTKTT\QLKho\quanlykho\quanlykho\obj\Debug\net6.0-windows\ref\quanlykho.dll
 F:\0_TRUNGKIEN\PTTKTT\QLKho\quanlykho\quanlykho\obj\Debug\net6.0-windows\quanlykho.TrangChu.resources
+F:\0_TRUNGKIEN\PTTKTT\QLKho\quanlykho\quanlykho\obj\Debug\net6.0-windows\quanlykho.sourcelink.json
