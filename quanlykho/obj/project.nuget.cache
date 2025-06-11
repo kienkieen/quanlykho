@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zcnm4+/cDH4=",
+  "success": true,
+  "projectFilePath": "F:\\0_TRUNGKIEN\\PTTKTT\\QLKho\\quanlykho\\quanlykho\\quanlykho.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
